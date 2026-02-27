@@ -1,5 +1,4 @@
 # Fingerprint-19-Class-Image-Classification
-# Fingerprint 19-Class Image Classification (K-Fold + EMA + TTA + Fusion)
 
 This repository implements a 19-class fingerprint image classification pipeline, featuring:
 - **K-Fold cross-validation training** (custom stratified k-fold, no sklearn dependency)
